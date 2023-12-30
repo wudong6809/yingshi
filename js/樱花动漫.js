@@ -17,8 +17,8 @@ var rule={
     headers:{
         'User-Agent':'MOBILE_UA',
     },
-    class_name:'TV&剧场版&OVA',
-    class_url:'TV&剧场版&OVA',
+    class_name:'日本动漫&OVA国产动漫&OVA',
+    class_url:'日本动漫&OVA国产动漫&OVA',
     play_parse:true,
     detailUrl:'',
     lazy:"",
