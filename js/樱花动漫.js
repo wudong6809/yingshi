@@ -1,8 +1,8 @@
 // https://m.agemys.org/#/
 
 var rule = {
-	title:'AGE动漫',
-	host:'https://api.agemys.org',
+	title:'樱花动漫',
+	host:'https://www.iyhdm.com/',
 	homeUrl:'/v2/update?page=1&size=30',
 	url:'/v2/catalog?genre=fyclass&fyfilter&page=fypage&size=10',
 	searchUrl:'/v2/search?query=**&page=fypage',
