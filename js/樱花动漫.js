@@ -1,4 +1,4 @@
-// https://www.iyhdm.com/list/#/
+// https://m.agemys.org/#/
 
 var rule = {
 	title:'樱花动漫',
