@@ -1,7 +1,7 @@
 // 发布页 https://acgfans.org/pub.html
 var rule={
 	title:'樱花动漫',
-	host:'https://api.agemys.org',
+	host:'https://www.iyhdm.com/list/',
 	homeUrl:'/v2/update?page=1&size=30',
 	url:'/v2/catalog?genre=fyclass&fyfilter&page=fypage&size=10',
 	searchUrl:'/v2/search?query=**&page=fypage',
